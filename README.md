@@ -3,8 +3,7 @@ A Dockerized version of Oracle Database Attacking Tool (https://github.com/quent
 
 # How build
 ```bash
-docker build -t="odat" .
-docker run --name myodat_container -i -t odat bash
+docker build -t="hktalent/odat" .
 ```
 
 # How use
