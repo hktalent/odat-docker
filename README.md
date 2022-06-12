@@ -7,6 +7,7 @@ docker build -t="hktalent/odat" .
 ```
 
 # How use
+https://github.com/quentinhardy/odat/wiki
 ```bash
 docker run -i -t hktalent/odat /bin/bash
 cd /root/odat
